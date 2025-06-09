@@ -33,13 +33,3 @@ The download is public, direct, and does not require authentication.
 🔗 [Download dataset from Google Drive](https://drive.google.com/uc?id=19ALFdJHV3ZehAZngdLBsoYtUZPOjunBY)
 
 ---
-
-### 4. Compressed file included in this folder
-
-To facilitate distribution, the dataset has also been included in this folder in `.zip` format.  
-This is especially useful when downloading the entire repository as a compressed file from GitHub.  
-Once unzipped, the dataset is available in CSV format.  
-This method supports offline use without requiring any external connections.  
-Included file: `DATASET NDSPP.2025.0001.01.1.zip`
-
----
